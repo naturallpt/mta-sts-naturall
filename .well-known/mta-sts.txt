@@ -2,4 +2,3 @@ version: STSv1
 mode: enforce
 mx: naturall-pt.mail.protection.outlook.com
 max_age: 604800
-version: STSv1
